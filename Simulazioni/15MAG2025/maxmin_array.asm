@@ -1,6 +1,6 @@
 # Title:	Esame del 16 maggio 2025 in Architettura Dei Calcolatori
 # Filename:	maxmin_array.asm
-# Author:	Ettore Antonio Panasia 863002805   Date: 19 giugno 2025
+# Author:	Ettore   Date: 19 giugno 2025
 # Description:	Inserire 5 valori in un array, trovare il massimo e il minimo
 # Input:	5 numeri interi da tastiera
 # Output:	Il massimo e il minimo tra i numeri inseriti
