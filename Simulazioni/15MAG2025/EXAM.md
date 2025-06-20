@@ -22,10 +22,15 @@ Una seconda funzione `trova_maxmin` riceve come parametro l’indirizzo dell’a
 ### 🖨️ Output atteso
 
 Dammi il valore di arr[0]: 11
+
 Dammi il valore di arr[1]: -227
+
 Dammi il valore di arr[2]: 175858
+
 Dammi il valore di arr[3]: 0
+
 Dammi il valore di arr[4]: -5858959
+
 
 Il massimo è: 175858
 Il minimo è: -5858959
