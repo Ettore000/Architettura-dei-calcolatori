@@ -33,6 +33,7 @@ Dammi il valore di arr[4]: -5858959
 
 
 Il massimo è: 175858
+
 Il minimo è: -5858959
 
 -- program is finished running --
