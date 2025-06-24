@@ -13,12 +13,12 @@ Questo repository contiene esercitazioni pratiche in **Assembly RISC-V** per pre
   - Uso dei registri temporanei e di ritorno (`t0`–`t6`, `a0`–`a3`)
   - Allineamento corretto della memoria (`.align 2`)
 
-## 🛠 Requisiti
+## Requisiti
 
 - [RARS](https://github.com/TheThirdOne/rars) – RISC-V Assembler and Runtime Simulator  
   Scarica ed esegui `RARS.jar`.
 
-## ▶Esecuzione
+## Esecuzione
 
 Apri `maxmin_array.asm` in RARS e premi **F5** per eseguire il programma.  
 Inserisci i 5 valori richiesti e osserva l'output di massimo e minimo.
